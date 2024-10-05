@@ -32,6 +32,8 @@ Open .vimrc file with vim.
 vim .vimrc
 ```
 
+### 3. Install Package
+
 Install third party vim package.
 ```sh
 :PlugInstall
